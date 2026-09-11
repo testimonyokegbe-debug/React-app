@@ -15,7 +15,7 @@ const About = () => {
       </h1>
 
       <p className="text-gray-500 max-w-80 text-center mb-8">
-        Where Living Meets Luxury ⭐
+        Where Living Meets Luxury 
       </p>
 
       <div className="flex flex-col md:flex-row items-center justify-center md:items-start md:gap-20">
